@@ -33,7 +33,6 @@ END_MESSAGE_MAP()
 
 CToolView::CToolView()  : m_pTerrain(nullptr), m_pStageInfo(nullptr), m_pStructInfo(nullptr), m_bHide(false), m_pMonsterInfo(nullptr)
 {
-	//its dtahd
 }
 
 CToolView::~CToolView()
