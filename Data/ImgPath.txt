@@ -1,0 +1,15 @@
+MstBlueWolf|BlueWolf|6|..\Texture\Talesweaver\MstBlueWolf\BlueWolf\BlueWolf%d.png
+MstBoss|Boss|8|..\Texture\Talesweaver\MstBoss\Boss\Boss%d.png
+MstCreedWizard|CreedWizard|4|..\Texture\Talesweaver\MstCreedWizard\CreedWizard\CreedWizard%d.png
+MstDarkCow|DarkCow|6|..\Texture\Talesweaver\MstDarkCow\DarkCow\DarkCow%d.png
+MstJelly|Jelly|5|..\Texture\Talesweaver\MstJelly\Jelly\Jelly%d.png
+MstPinkWolf|PinkWolf|6|..\Texture\Talesweaver\MstPinkWolf\PinkWolf\PinkWolf%d.png
+MstRedWolf|RedWolf|6|..\Texture\Talesweaver\MstRedWolf\RedWolf\RedWolf%d.png
+NPC|Kenishi|7|..\Texture\Talesweaver\NPC\Kenishi\Kenishi%d.png
+ObjEtc|Etc|38|..\Texture\Talesweaver\ObjEtc\Etc\Etc%d.png
+ObjFence|Fence|16|..\Texture\Talesweaver\ObjFence\Fence\Fence%d.png
+ObjHouse|House|4|..\Texture\Talesweaver\ObjHouse\House\House%d.png
+ObjPlant|Plant|19|..\Texture\Talesweaver\ObjPlant\Plant\Plant%d.png
+ObjTree|Tree|50|..\Texture\Talesweaver\ObjTree\Tree\Tree%d.png
+Stage|Map|8|..\Texture\Talesweaver\Stage\Map\Map%d.png
+Terrain|Tile|5|..\Texture\Talesweaver\Terrain\Tile\Tile%d.png

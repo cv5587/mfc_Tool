@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="00. Device">
+      <UniqueIdentifier>{da4a2a67-8c53-465b-8fb6-00dd9e548bff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. TextureMgr">
+      <UniqueIdentifier>{0a0a8d23-c887-414a-a513-52a3e22e8ba3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. TextureMgr\Texture">
+      <UniqueIdentifier>{489d9f9e-70f4-411c-81ec-15c2be75c044}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. TextureMgr\Texture\00. Single">
+      <UniqueIdentifier>{6357b792-7490-4001-b7de-9757b463e915}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. TextureMgr\Texture\01. Multi">
+      <UniqueIdentifier>{b705b12c-de13-404c-87cd-061c6f6de12c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Etc">
+      <UniqueIdentifier>{9d149568-ae03-4802-9bf8-e3df03fecf83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. Base">
+      <UniqueIdentifier>{324f4905-75e1-41f6-bd3d-c0dc5d1a3dbd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. Base\View">
+      <UniqueIdentifier>{fd96834e-cc4c-4fdf-8b71-317a491a7ce7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. Base\MainFrm">
+      <UniqueIdentifier>{1f06a005-11fc-409f-9eea-d3710fa944ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. Base\Document">
+      <UniqueIdentifier>{e365609e-c788-4989-8bad-ea18471eb94a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Etc\Terrain">
+      <UniqueIdentifier>{f74d2615-5154-4b74-91f2-13989c0f92df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Etc\Dialog">
+      <UniqueIdentifier>{677e8a1d-a371-4e8a-b258-297e15eea91a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Etc\Dialog\MyForm">
+      <UniqueIdentifier>{1fa126cb-ce1a-4fd5-a699-0df4bf491b55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Etc\Dialog\MiniView">
+      <UniqueIdentifier>{dffa57a5-96f4-4629-a394-84139229ee48}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Etc\Dialog\UnitTool">
+      <UniqueIdentifier>{667b6964-e1e9-4be6-ae22-327ff6b75376}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Etc\Dialog\MapTool">
+      <UniqueIdentifier>{a4bb313d-d636-4620-aa4d-c44f2dced162}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Etc\FileInfo">
+      <UniqueIdentifier>{03dc9e04-4d62-42ed-9eeb-64b8805f51b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Etc\Dialog\PathFind">
+      <UniqueIdentifier>{97a452c7-d459-4b3f-8010-c06a0be475eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Etc\Dialog\DetailView">
+      <UniqueIdentifier>{6b56d5d4-146e-41e8-8c03-66e61ab9a5ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Etc\Dialog\StructTool">
+      <UniqueIdentifier>{24d03d85-be46-4edd-9eef-124a3c41aaa3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Etc\Dialog\MonsterTool">
+      <UniqueIdentifier>{2c0c3999-d4d5-4f87-a636-39db8291d2dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Etc\StageInfo">
+      <UniqueIdentifier>{0e11c907-a997-4333-b576-7388715ee2b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Etc\StructInfo">
+      <UniqueIdentifier>{9dc6c042-fd16-4a9a-948d-057273cdec8b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. Etc\MonsterInfo">
+      <UniqueIdentifier>{0ab9adcf-3703-4fa0-9b54-90c2a4e4c5d3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Tool.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>03. Base\MainFrm</Filter>
+    </ClInclude>
+    <ClInclude Include="ToolView.h">
+      <Filter>03. Base\View</Filter>
+    </ClInclude>
+    <ClInclude Include="ToolDoc.h">
+      <Filter>03. Base\Document</Filter>
+    </ClInclude>
+    <ClInclude Include="Device.h">
+      <Filter>00. Device</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>01. TextureMgr\Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="SingleTexture.h">
+      <Filter>01. TextureMgr\Texture\00. Single</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureMgr.h">
+      <Filter>01. TextureMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="MultiTexture.h">
+      <Filter>01. TextureMgr\Texture\01. Multi</Filter>
+    </ClInclude>
+    <ClInclude Include="Terrain.h">
+      <Filter>02. Etc\Terrain</Filter>
+    </ClInclude>
+    <ClInclude Include="MyForm.h">
+      <Filter>02. Etc\Dialog\MyForm</Filter>
+    </ClInclude>
+    <ClInclude Include="MiniView.h">
+      <Filter>02. Etc\Dialog\MiniView</Filter>
+    </ClInclude>
+    <ClInclude Include="UnitTool.h">
+      <Filter>02. Etc\Dialog\UnitTool</Filter>
+    </ClInclude>
+    <ClInclude Include="MapTool.h">
+      <Filter>02. Etc\Dialog\MapTool</Filter>
+    </ClInclude>
+    <ClInclude Include="PathFind.h">
+      <Filter>02. Etc\Dialog\PathFind</Filter>
+    </ClInclude>
+    <ClInclude Include="DetailView.h">
+      <Filter>02. Etc\Dialog\DetailView</Filter>
+    </ClInclude>
+    <ClInclude Include="StructTool.h">
+      <Filter>02. Etc\Dialog\StructTool</Filter>
+    </ClInclude>
+    <ClInclude Include="MonsterTool.h">
+      <Filter>02. Etc\Dialog\MonsterTool</Filter>
+    </ClInclude>
+    <ClInclude Include="FileInfo.h">
+      <Filter>02. Etc\FileInfo</Filter>
+    </ClInclude>
+    <ClInclude Include="StageInfo.h">
+      <Filter>02. Etc\StageInfo</Filter>
+    </ClInclude>
+    <ClInclude Include="StructInfo.h">
+      <Filter>02. Etc\StructInfo</Filter>
+    </ClInclude>
+    <ClInclude Include="MonsterInfo.h">
+      <Filter>02. Etc\MonsterInfo</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Tool.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>03. Base\MainFrm</Filter>
+    </ClCompile>
+    <ClCompile Include="ToolView.cpp">
+      <Filter>03. Base\View</Filter>
+    </ClCompile>
+    <ClCompile Include="ToolDoc.cpp">
+      <Filter>03. Base\Document</Filter>
+    </ClCompile>
+    <ClCompile Include="Device.cpp">
+      <Filter>00. Device</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>01. TextureMgr\Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="SingleTexture.cpp">
+      <Filter>01. TextureMgr\Texture\00. Single</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureMgr.cpp">
+      <Filter>01. TextureMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="MultiTexture.cpp">
+      <Filter>01. TextureMgr\Texture\01. Multi</Filter>
+    </ClCompile>
+    <ClCompile Include="Terrain.cpp">
+      <Filter>02. Etc\Terrain</Filter>
+    </ClCompile>
+    <ClCompile Include="MyForm.cpp">
+      <Filter>02. Etc\Dialog\MyForm</Filter>
+    </ClCompile>
+    <ClCompile Include="MiniView.cpp">
+      <Filter>02. Etc\Dialog\MiniView</Filter>
+    </ClCompile>
+    <ClCompile Include="UnitTool.cpp">
+      <Filter>02. Etc\Dialog\UnitTool</Filter>
+    </ClCompile>
+    <ClCompile Include="MapTool.cpp">
+      <Filter>02. Etc\Dialog\MapTool</Filter>
+    </ClCompile>
+    <ClCompile Include="PathFind.cpp">
+      <Filter>02. Etc\Dialog\PathFind</Filter>
+    </ClCompile>
+    <ClCompile Include="DetailView.cpp">
+      <Filter>02. Etc\Dialog\DetailView</Filter>
+    </ClCompile>
+    <ClCompile Include="StructTool.cpp">
+      <Filter>02. Etc\Dialog\StructTool</Filter>
+    </ClCompile>
+    <ClCompile Include="MonsterTool.cpp">
+      <Filter>02. Etc\Dialog\MonsterTool</Filter>
+    </ClCompile>
+    <ClCompile Include="FileInfo.cpp">
+      <Filter>02. Etc\FileInfo</Filter>
+    </ClCompile>
+    <ClCompile Include="StageInfo.cpp">
+      <Filter>02. Etc\StageInfo</Filter>
+    </ClCompile>
+    <ClCompile Include="StructInfo.cpp">
+      <Filter>02. Etc\StructInfo</Filter>
+    </ClCompile>
+    <ClCompile Include="MonsterInfo.cpp">
+      <Filter>02. Etc\MonsterInfo</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Tool.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\Tool.rc2">
+      <Filter>리소스 파일</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\ToolDoc.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\Tool.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\Toolbar.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

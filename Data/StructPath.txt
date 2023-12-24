@@ -1,0 +1,4 @@
+0
+ObjFence|Fence|11|526|222|0
+ObjHouse|House|3|651|286|0
+ObjTree|Tree|24|375|155|0
