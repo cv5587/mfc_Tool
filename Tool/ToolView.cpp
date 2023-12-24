@@ -252,7 +252,7 @@ void CToolView::OnLButtonDblClk(UINT nFlags, CPoint point)
 
 	CScrollView::OnLButtonDblClk(nFlags, point);
 }
-//123
+
 void CToolView::Instance_Render()
 {
 	RECT	rc{};
